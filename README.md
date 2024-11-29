@@ -65,7 +65,7 @@
             align="right"
             alt="Coding"
             width="500"
-            src="https://www.shootdartsolutions.com/img/service/web-design.gif"
+            src="/CTRUH Logo Vertical Colour.png"
           />
         </div>
   // Remaining from here
