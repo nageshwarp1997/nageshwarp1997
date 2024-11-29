@@ -56,7 +56,7 @@
             ✨ Creating bugs since day one, but fixing them faster every day!
           </p>
         </div>
-     <div style="display: flex; justify-content: space-between">
+     <div style="display: flex; justify-content: space-between; align-items: flex-start">
           <img
             src="https://komarev.com/ghpvc/?username=nageshwarp1997&label=Profile%20views&color=0e75b6&style=for-the-badge"
             alt="nageshwar1997"
@@ -68,6 +68,14 @@
             src="/CTRUH Logo Vertical Colour.png"
           />
         </div>
-  // Remaining from here
+    <br clear="both" />
+        <div align="left">
+          <h2>🏆 Trophies</h2>
+          <img
+            width="100%"
+            src="https://github-profile-trophy.vercel.app/?username=nageshwarp1997&theme=transparent&no-frame=false&no-bg=true&margin-w=4"
+            alt="GitHub Trophies"
+          />
+        </div>
   </div>
 </div>
