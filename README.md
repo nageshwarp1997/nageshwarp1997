@@ -64,7 +64,7 @@
           <img
             align="right"
             alt="Coding"
-            width="500"
+            width="300"
             src="/CTRUH Logo Vertical Colour.png"
           />
         </div>
